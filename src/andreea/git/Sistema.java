@@ -1,5 +1,6 @@
+package andreea.git;
 
-public class new_git_proyect {
+public class Sistema {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
